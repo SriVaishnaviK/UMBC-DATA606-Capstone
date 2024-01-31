@@ -1,5 +1,5 @@
 # Sri Vaishnavi Kudikala
-![Headshot](docs/profile-pic.png)
+![Headshot](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/blob/main/docs/profile-pic.png)
 
 
 **Location:** Baltimore, USA | **Phone:** +1 443-703-6920 | **Email:** kudikala231@gmail.com | **LinkedIn:** [LinkedIn Profile](LinkedIn_Link_Here) | **GitHub:** [GitHub Profile](GitHub_Link_Here)
