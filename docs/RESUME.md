@@ -1,10 +1,7 @@
 # Sri Vaishnavi Kudikala
+![Your Headshot](link-to-headshot-image)
 
-**Location:** Baltimore, USA  
-**Phone:** +1 443-703-6920  
-**Email:** kudikala231@gmail.com  
-**LinkedIn:** [LinkedIn Profile](LinkedIn_Link_Here)  
-**GitHub:** [GitHub Profile](GitHub_Link_Here)
+**Location:** Baltimore, USA | **Phone:** +1 443-703-6920 | **Email:** kudikala231@gmail.com | **LinkedIn:** [LinkedIn Profile](LinkedIn_Link_Here) | **GitHub:** [GitHub Profile](GitHub_Link_Here)
 
 ## PROFESSIONAL SUMMARY
 Highly motivated individual with experience in full-stack development and Data Analytics. Proficient in data analysis, mining, and visualization tools like Tableau and PowerBI. My problem-solving skills, unwavering attention to detail, and hands-on experience in implementing secure login authentication functions and skillfully showcasing module-specific tables drive my commitment to delivering data-driven initiatives for informed decision-making.
