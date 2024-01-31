@@ -1,5 +1,6 @@
 # Sri Vaishnavi Kudikala
-![Your Headshot](link-to-headshot-image)
+![Headshot](URL)
+
 
 **Location:** Baltimore, USA | **Phone:** +1 443-703-6920 | **Email:** kudikala231@gmail.com | **LinkedIn:** [LinkedIn Profile](LinkedIn_Link_Here) | **GitHub:** [GitHub Profile](GitHub_Link_Here)
 
