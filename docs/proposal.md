@@ -13,10 +13,10 @@
 
 This project centers on predicting house prices by leveraging diverse factors such as location, construction details, and interior features, drawing insights from a dataset obtained from the UCI Machine Learning Repository. The comprehensive dataset enables a thorough examination of trends in house pricing. The significance lies in providing a valuable tool for potential buyers and sellers to make well-informed decisions. Additionally, it aids real estate professionals in strategically setting competitive prices, fostering efficiency in the market. The project's broader impact lies in enhancing transparency within the real estate sector, where a nuanced understanding of the various factors influencing housing prices contributes to a more informed and responsive market.
 #### Research Questions
-- Temporal Price Trends: Explore house price changes over time, identifying significant fluctuations and underlying drivers.
-- Geographical Price Analysis: Correlate location (latitude, longitude, zip code) with prices, identifying high/low areas and reasons for spatial variations.
-- Impact of Interior Features: Analyze bedrooms, bathrooms, and square footage influence on prices, identifying key contributors.
-- Quality and Condition Impact: Investigate how construction grade and property condition affect prices, assessing higher-grade property premiums.
+- Temporal Price Trends: To explore house price changes over time, identifying significant fluctuations and underlying drivers.
+- Geographical Price Analysis: To Correlate location (latitude, longitude, zip code) with prices, identifying high/low areas and reasons for spatial variations.
+- Impact of Interior Features: To Analyze bedrooms, bathrooms, and square footage influence on prices, identifying key contributors.
+- Quality and Condition Impact: To Investigate how construction grade and property condition affect prices, assessing higher-grade property premiums.
 - Renovation Effects: Examine how renovations impact prices, determining if recent renovations correlate with higher property values.
 
 ## 3. Data 
