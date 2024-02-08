@@ -17,19 +17,20 @@ This project centers on predicting house prices by leveraging diverse factors su
 - Geographical Price Analysis: Correlate location (latitude, longitude, zip code) with prices, identifying high/low areas and reasons for spatial variations.
 - Impact of Interior Features: Analyze bedrooms, bathrooms, and square footage influence on prices, identifying key contributors.
 - Quality and Condition Impact: Investigate how construction grade and property condition affect prices, assessing higher-grade property premiums.
-- Waterfront and View Analysis: Explore how waterfront and view index influence prices, assessing the value of desirable views.
 - Renovation Effects: Examine how renovations impact prices, determining if recent renovations correlate with higher property values.
 
 ## 3. Data 
 
 
 - The dataset originates from the UCI Machine Learning Repository and is sourced from [Kaggle](https://www.kaggle.com/datasets/astronautelvis/kc-house-data/data).
-- The dataset size is 2.03MB.
+- The size of the dataset is 2.03MB.
 - Data shape: (21613, 21)
+- Each row in the provided dataset represents information about a specific house sale.
 - Data Dictionary:
+
+  
 | Column Name     | Definition                                                | Data Type |
 |-----------------|-----------------------------------------------------------|-----------|
-| Unnamed: 0      | Index or identifier for each home sold                    | `int64`   |
 | id              | Unique ID for each home sold                               | `int64`   |
 | price           | Price of each home sold                                    | `int64`   |
 | bedrooms        | Number of bedrooms                                        | `int64`   |
@@ -53,5 +54,5 @@ This project centers on predicting house prices by leveraging diverse factors su
 
  
   
-- Which variable/column will be your target/label in your ML model?
-- Which variables/columns may be selected as features/predictors for your ML models?
+- The column **price** is the target variable.
+- Columns bedrooms, bathrooms,sqft_living,sqft_lot, condition, grade,yr_built,yr_renovated, lat, long, and zipcode may be used as features for the ML model.
