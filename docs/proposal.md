@@ -27,7 +27,7 @@ This project centers on predicting house prices by leveraging diverse factors su
 - The dataset size is 2.03MB.
 - Data shape: (21613, 21)
 - Data Dictionary:
-- | Column Name    | Definition                                                | Data Type |
+| Column Name     | Definition                                                | Data Type |
 |-----------------|-----------------------------------------------------------|-----------|
 | Unnamed: 0      | Index or identifier for each home sold                    | `int64`   |
 | id              | Unique ID for each home sold                               | `int64`   |
