@@ -11,15 +11,15 @@
 ## 2. Background
 
 
-This project centers on predicting house prices by leveraging diverse factors such as location, construction details, and interior features, drawing insights from a dataset obtained from the UCI Machine Learning Repository. The comprehensive dataset enables a thorough examination of trends in house pricing. The significance lies in providing valuable tool for potential buyers and sellers to make well-informed decisions. Additionally, it aids real estate professionals in strategically setting competitive prices, fostering efficiency in the market. The project's broader impact lies in enhancing transparency within the real estate sector, where a nuanced understanding of the various factors influencing housing prices contributes to a more informed and responsive market.
+This project centers on predicting house prices by leveraging diverse factors such as location, construction details, and interior features, drawing insights from a dataset obtained from the UCI Machine Learning Repository. The comprehensive dataset enables a thorough examination of trends in house pricing. The significance lies in providing a valuable tool for potential buyers and sellers to make well-informed decisions. Additionally, it aids real estate professionals in strategically setting competitive prices, fostering efficiency in the market. The project's broader impact lies in enhancing transparency within the real estate sector, where a nuanced understanding of the various factors influencing housing prices contributes to a more informed and responsive market.
 
 ## 3. Data 
 
 Describe the datasets you are using to answer your research questions.
 
-- Data sources
-- Data size (MB, GB, etc.)
-- Data shape (# of rows and # columns)
+- The dataset originates from the UCI Machine Learning Repository and is sourced from [Kaggle](https://www.kaggle.com/datasets/astronautelvis/kc-house-data/data).
+The dataset size is 832kB.
+- Data shape: (21613, 22)
 - Time period (for example, 2010 to 2020) if your data are time-bound
 - **What does each row represent?(a patient, a school, a crime, etc.)**
 - Data dictionary
