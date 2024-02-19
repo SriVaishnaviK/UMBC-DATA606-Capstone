@@ -22,7 +22,7 @@ This project centers on predicting house prices by leveraging diverse factors su
 
 - The dataset originates from the UCI Machine Learning Repository and is sourced from [Kaggle](https://www.kaggle.com/datasets/astronautelvis/kc-house-data/data).
 - The size of the dataset is 2.03MB.
-- Data shape: (21613, 22)
+- Data shape: (21613, 21)
 - Each row in the dataset represents information about a specific house sale.
 - The period of the data ranges between 2014-2015.
 - Data Dictionary:
