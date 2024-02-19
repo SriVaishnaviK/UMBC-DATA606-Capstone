@@ -3,8 +3,8 @@
 - House Price Prediction
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - Sri Vaishnavi Kudikala
-- Github:https://github.com/SriVaishnaviK
-- LinkedIn:https://www.linkedin.com/in/vaishnavikudikala
+- [Github](https://github.com/SriVaishnaviK)
+- [LinkedI](https://www.linkedin.com/in/vaishnavikudikala)
 - Presentation:
 - Youtube:
     
