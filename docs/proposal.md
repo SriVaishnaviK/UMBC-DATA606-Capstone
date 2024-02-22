@@ -11,9 +11,10 @@
 ## 2. Background
 
 
-This project centers on predicting house prices by leveraging diverse factors such as location, construction details, and interior features, drawing insights from a UCI Machine Learning Repository dataset. The comprehensive dataset enables a thorough examination of trends in house pricing. The significance lies in providing a valuable tool for potential buyers and sellers to make well-informed decisions. Additionally, it aids real estate professionals in strategically setting competitive prices, fostering efficiency in the market. The project's broader impact lies in enhancing transparency within the real estate sector, where a detailed understanding of the various factors influencing housing prices contributes to a more informed and responsive market.
+This project centers on predicting house prices by leveraging diverse factors such as location, construction details, and interior features, drawing insights from them. The comprehensive dataset enables a thorough examination of trends in house pricing. The significance lies in providing a valuable tool for potential buyers and sellers to make well-informed decisions. Additionally, it aids real estate professionals in strategically setting competitive prices, fostering efficiency in the market. The project's broader impact lies in enhancing transparency within the real estate sector, where a detailed understanding of the various factors influencing housing prices contributes to a more informed and responsive market.
 #### Research Questions
-- What is the correlation between location (latitude, longitude, zip code) and house prices, and how can high/low areas be identified? What are the reasons for spatial variations in prices?
+- What is the correlation between location (latitude, longitude, zip code) and house prices?
+- What are the reasons for spatial variations in prices?
 - How do the number of bedrooms, bathrooms, and square footage influence house prices, and what are the key contributors to these influences?
 - How do the construction grade and property condition impact house prices, and is there an assessment of higher-grade property premiums?
 - How do renovations affect house prices, and is there a correlation between recent renovations and higher property values?
