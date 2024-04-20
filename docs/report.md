@@ -68,10 +68,13 @@ The distribution exhibits a skewed pattern with the highest bars concentrated to
 ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/39007266-a78a-4836-8414-d1e0db65a099)
 
 - Average House Prices By Location
+  
 ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/7973e164-a684-4171-ad69-af5f265eef4e)
+
 The graph suggests that there are significant variations in average prices across these different locations, which could be influenced by factors such as income levels, cost of living, and market dynamics in each area. The higher prices in Medina, Clyde Hill, and Yarrow Point may indicate more affluent neighborhoods or communities.
 
 - Price VS Year Built
+  
 ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/357ec880-b7ba-4d8f-bce7-ccc4df16511f)
 
 The analysis reveals distinct patterns in property prices relative to the year of construction. Properties built during specific decades, such as the early 1900s and late 1960s, tend to command higher prices, while those constructed in the late 1930s and mid-1990s typically have lower associated prices. This cyclical trend suggests the influence of various factors, including economic cycles and market conditions. However, individual property characteristics such as location, size, and condition may contribute to exceptions within this broader trend.
