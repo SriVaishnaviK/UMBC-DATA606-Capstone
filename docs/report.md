@@ -73,10 +73,13 @@ The graph suggests that there are significant variations in average prices acros
 
 - Price VS Year Built
 ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/357ec880-b7ba-4d8f-bce7-ccc4df16511f)
+
 The analysis reveals distinct patterns in property prices relative to the year of construction. Properties built during specific decades, such as the early 1900s and late 1960s, tend to command higher prices, while those constructed in the late 1930s and mid-1990s typically have lower associated prices. This cyclical trend suggests the influence of various factors, including economic cycles and market conditions. However, individual property characteristics such as location, size, and condition may contribute to exceptions within this broader trend.
 
 - Property Condition Vs Price
+ 
 ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/3304cbe0-2dbe-4729-b789-fca0c52c8144)
+
 The graph depicts a positive correlation between property condition and house prices, showing that as the condition rating improves, prices tend to rise consistently. Specifically, there's a noticeable increase in prices from the lowest (rating 1) to the highest (rating 5) condition. This underscores the market's preference for well-maintained properties, with buyers willing to pay premium prices for higher-quality homes.
 
 
