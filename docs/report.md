@@ -56,11 +56,28 @@ This project centers on predicting house prices by leveraging diverse factors su
  
   
 - The column **price** is the target variable.
-- Columns bedrooms, bathrooms,sqft_living,sqft_lot, condition, grade,yr_built,yr_renovated, lat, long, and zipcode may be used as features for the ML model.
+- Columns bedrooms, bathrooms,sqft_living,sqft_lot, condition, grade,yr_built,yr_renovated, lat, long, and zip code may be used as features for the ML model.
 
 ## 3. Exploratory Data Analysis(EDA)
 - There were no missing or duplicated values in the dataset.
 - To ensure data consistency and compatibility with the analysis, type conversions were performed on certain columns. Specifically, all the data were converted to integers wherever  necessary. This step was crucial for standardizing the data format and facilitating accurate analysis.
 - Frequency Distribution of target Variable(Price)
   ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/e01212f0-88a9-478c-850e-8366364a28d6)
+The distribution exhibits a skewed pattern with the highest bars concentrated towards the lower end of the price range. This indicates that a large number of houses are priced at or near the lowest price point. As the prices increase along the x-axis, the bars representing the counts become progressively shorter, suggesting that fewer houses fall into the higher price ranges. The distribution has a long, gradually declining tail towards the right side, indicating that there are some houses priced at higher levels, but their frequency is much lower compared to the lower price points.
+- A Base Map Indicating the locations of houses from the dataset
+![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/39007266-a78a-4836-8414-d1e0db65a099)
+- Average House Prices By Location
+![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/7973e164-a684-4171-ad69-af5f265eef4e)
+The graph suggests that there are significant variations in average prices across these different locations, which could be influenced by factors such as income levels, cost of living, and market dynamics in each area. The higher prices in Medina, Clyde Hill, and Yarrow Point may indicate more affluent neighborhoods or communities.
+- Price VS Year Built
+![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/357ec880-b7ba-4d8f-bce7-ccc4df16511f)
+The analysis reveals distinct patterns in property prices relative to the year of construction. Properties built during specific decades, such as the early 1900s and late 1960s, tend to command higher prices, while those constructed in the late 1930s and mid-1990s typically have lower associated prices. This cyclical trend suggests the influence of various factors, including economic cycles and market conditions. However, individual property characteristics such as location, size, and condition may contribute to exceptions within this broader trend.
+- Property Condition Vs Price
+![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/3304cbe0-2dbe-4729-b789-fca0c52c8144)
+The graph depicts a positive correlation between property condition and house prices, showing that as the condition rating improves, prices tend to rise consistently. Specifically, there's a noticeable increase in prices from the lowest (rating 1) to the highest (rating 5) condition. This underscores the market's preference for well-maintained properties, with buyers willing to pay premium prices for higher-quality homes.
+
+
+
+
+
 
