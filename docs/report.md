@@ -57,3 +57,10 @@ This project centers on predicting house prices by leveraging diverse factors su
   
 - The column **price** is the target variable.
 - Columns bedrooms, bathrooms,sqft_living,sqft_lot, condition, grade,yr_built,yr_renovated, lat, long, and zipcode may be used as features for the ML model.
+
+## 3. Exploratory Data Analysis(EDA)
+- There were no missing or duplicated values in the dataset.
+- To ensure data consistency and compatibility with the analysis, type conversions were performed on certain columns. Specifically, all the data were converted to integers wherever  necessary. This step was crucial for standardizing the data format and facilitating accurate analysis.
+- Frequency Distribution of target Variable(Price)
+  ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/e01212f0-88a9-478c-850e-8366364a28d6)
+
