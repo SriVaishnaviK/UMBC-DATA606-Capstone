@@ -87,7 +87,7 @@ The graph depicts a positive correlation between property condition and house pr
 
 
 ## 5. Model Building
-- Trained the model on various regression models namely, linear regression, random forest, gradient boosting, XGBoost, Ridge Regressor, and Lasso Regressor.
+- Trained the data on various regression models namely, linear regression, random forest, gradient boosting, XGBoost, Ridge Regressor, and Lasso Regressor.
 - The model was trained on 80% of the data and evaluated on the remaining 20%.
 - Python packages used: scikit-learn, matplotlib, plotly, pandas, seaborn, numpy.
 - Development Environment: Jupyter.
