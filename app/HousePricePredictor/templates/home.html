@@ -1,0 +1,53 @@
+{%load static%}
+
+<!--<!DOCTYPE html>-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <style>
+
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Times New Roman
+}
+
+/* Style for submit button */
+input[type="submit"] {
+    background-color: #000000;
+    color: white;
+    cursor: pointer;
+    font-family: Times New Roman
+    padding: 34px 64px; /* You had a typo here, changed "padding 16px 34" to "padding: 16px 34px;" */
+    border: none; /* Add border:none; if you don't want borders */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    font-size: 25px;
+    transition: all 0.3s ease; /* Add transition for smooth hover effect */
+
+    margin-left: 200px; /* Add some margin to the right */
+}
+
+input[type="submit"]:hover {
+    background-color: #333333; /* Darken the background color on hover */
+    /* You can adjust the text color on hover for better visibility */
+    color: #ffffff; /* Change text color to white on hover */
+}
+        body{
+          background-image:url("{%static 'home2.jpg'%}");
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size:cover;
+        }
+    </style>
+</head>
+<body>
+
+<h1> HOUSE PRICE PREDICTOR, KANSAS CITY</h1>
+<form action="predict">
+    <input type="submit" value="LET'S BEGIN">
+</form>
+
+</body>
+</html>

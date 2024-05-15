@@ -1,0 +1,103 @@
+{% load static %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Predict</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style>
+    .main {
+        position: fixed;
+        top: 120px;
+        left: 410px;
+        width: 700px;
+        background-color: gainsboro;
+        border-radius: 5%;
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 30px;
+        color: DarkRed;
+    }
+
+    .cell-border {
+        border: 1px solid #ccc; /* Add border to cells */
+        padding: 10px; /* Add padding to cells */
+        margin-bottom: 10px; /* Add some space between cells */
+        background-color: lightgray; /* Add light gray background color */
+    }
+
+    input[type=submit] {
+        background-color: black;
+        color: white;
+        cursor: pointer;
+        padding: 16px 32px;
+        margin-top: 10px; /* Add some space above the submit button */
+    }
+
+    body {
+        background-image: url("{% static 'predict2.jpg' %}");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        text-align: center;
+    }
+    </style>
+</head>
+<body>
+<div class="main">
+    <h1>Please enter the following values</h1>
+    <form action="result">
+        <div class="row">
+            <div class="col-sm-4 cell-border">
+                <p>Number of Bed rooms required</p>
+                <input type="text" name="n1" value="{{ request.GET.n1 }}">
+            </div>
+            <div class="col-sm-4 cell-border">
+                <p>Number of Bathrooms required</p>
+                <input type="text" name="n2" value="{{ request.GET.n2 }}">
+            </div>
+            <div class="col-sm-4 cell-border">
+                <p>Sqft of living Area(Preferred)</p>
+                <input type="text" name="n3" value="{{ request.GET.n3 }}">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 cell-border">
+                <p>Number of floors required</p>
+                <input type="text" name="n4" value="{{ request.GET.n4 }}">
+            </div>
+           <div class="col-sm-4 cell-border">
+    <p>Condition value(Preferred)</p>
+    <select name="n5">
+        <option value="1" {% if request.GET.n5 == '1' %}selected{% endif %}>1</option>
+        <option value="2" {% if request.GET.n5 == '2' %}selected{% endif %}>2</option>
+        <option value="3" {% if request.GET.n5 == '3' %}selected{% endif %}>3</option>
+        <option value="4" {% if request.GET.n5 == '4' %}selected{% endif %}>4</option>
+        <option value="5" {% if request.GET.n5 == '5' %}selected{% endif %}>5</option>
+    </select>
+</div>
+            <div class="col-sm-4 cell-border">
+                <p>Built year(Preferred)</p>
+                <input type="text" name="n6" value="{{ request.GET.n6 }}">
+            </div>
+        </div>
+        <div class="row">
+            <input type="submit" value="PREDICT">
+        </div>
+    </form>
+    <div class="row">
+        <h2>{{ result2 }}</h2>
+    </div>
+</div>
+</body>
+</html>
