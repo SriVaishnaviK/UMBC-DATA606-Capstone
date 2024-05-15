@@ -107,12 +107,9 @@ The graph depicts a positive correlation between property condition and house pr
 - Optimized model performance using machine learning techniques and cross-validation, selecting XGBoost as the final model.
 - Developed a user-friendly Django-based interface for buyers and sellers to obtain accurate price estimates, contributing to transparency and efficiency in the real estate market.
 #### Future Scope
-- Incorporating Real-Time Data and Economic Trends
-Can integrate additional real-time data sources and economic indicators, automate data updates, and analyze macroeconomic trends to enhance the accuracy and timeliness of our house price predictions.
-- Exploring the Impact of Emerging Technologies
-Future efforts might focus on leveraging advanced AI techniques and integrating IoT data to improve predictive accuracy and understanding the impact of technology-driven market trends on housing values.
-- Developing Personalized Price Prediction Models
-We can plan to build detailed user profiles, create interactive tools for customized valuations, and implement feedback mechanisms to continuously refine our models based on user input and preferences.
+- Incorporating Real-Time Data and Economic Trends: Can integrate additional real-time data sources and economic indicators, automate data updates, and analyze macroeconomic trends to enhance the accuracy and timeliness of our house price predictions.
+- Exploring the Impact of Emerging Technologies: Future efforts might focus on leveraging advanced AI techniques and integrating IoT data to improve predictive accuracy and understanding the impact of technology-driven market trends on housing values.
+- Developing Personalized Price Prediction Models: We can plan to build detailed user profiles, create interactive tools for customized valuations, and implement feedback mechanisms to continuously refine our models based on user input and preferences.
 
 
 
