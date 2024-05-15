@@ -58,7 +58,7 @@ This project centers on predicting house prices by leveraging diverse factors su
 - The column **price** is the target variable.
 - Columns bedrooms, bathrooms,sqft_living,sqft_lot, condition, grade,yr_built,yr_renovated, lat, long, and zip code may be used as features for the ML model.
 
-## 3. Exploratory Data Analysis(EDA)
+## 4. Exploratory Data Analysis(EDA)
 - There were no missing or duplicated values in the dataset.
 - To ensure data consistency and compatibility with the analysis, type conversions were performed on certain columns. Specifically, all the data were converted to integers wherever  necessary. This step was crucial for standardizing the data format and facilitating accurate analysis.
 - Frequency Distribution of target Variable(Price)
@@ -84,6 +84,45 @@ The analysis reveals distinct patterns in property prices relative to the year o
 ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/3304cbe0-2dbe-4729-b789-fca0c52c8144)
 
 The graph depicts a positive correlation between property condition and house prices, showing that as the condition rating improves, prices tend to rise consistently. Specifically, there's a noticeable increase in prices from the lowest (rating 1) to the highest (rating 5) condition. This underscores the market's preference for well-maintained properties, with buyers willing to pay premium prices for higher-quality homes.
+
+
+## 5. Model Building
+- Trained the model on various regression models namely, linear regression, random forest, gradient boosting, XGBoost, Ridge Regressor, and Lasso Regressor.
+- The model was trained on 80% of the data and evaluated on the remaining 20%.
+- Python packages used: scikit-learn, matplotlib, plotly, pandas, seaborn, numpy.
+- Development Environment: Jupyter.
+- Evaluated the model on  various metrics like r2score, mean squared error, mean absolute error, and root mean squared error.
+  ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/bf5e49e6-85d3-4678-a1cd-c05741013899)
+- Conducted five-fold cross-validation to enhance model performance, observing improved results with random forest and XGBoost regressor.
+- Further optimized model performance by varying the number of folds (3-12) specifically for Random Forest and XGBoost regressors.
+- Ultimately, chose XGBoost regressor for model development due to its superior performance with 10-fold cross-validation. 
+
+
+## 6. Application of Trained Models
+- Developed a web application to deploy my model using the Django framework.
+- Used pycharm as a development environment.
+
+## 7. Conclusion
+- Identified key trends such as location, construction year, and property condition influencing house prices.
+- Optimized model performance using machine learning techniques and cross-validation, selecting XGBoost as the final model.
+- Developed a user-friendly Django-based interface for buyers and sellers to obtain accurate price estimates, contributing to transparency and efficiency in the real estate market.
+#### Future Scope
+-Incorporating Real-Time Data and Economic Trends
+Can integrate additional real-time data sources and economic indicators, automate data updates, and analyze macroeconomic trends to enhance the accuracy and timeliness of our house price predictions.
+- Exploring the Impact of Emerging Technologies
+Future efforts might focus on leveraging advanced AI techniques and integrating IoT data to improve predictive accuracy and understanding the impact of technology-driven market trends on housing values.
+- Developing Personalized Price Prediction Models
+We can plan to build detailed user profiles, create interactive tools for customized valuations, and implement feedback mechanisms to continuously refine our models based on user input and preferences.
+
+
+
+
+
+
+
+
+
+
 
 
 
