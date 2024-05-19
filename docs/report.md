@@ -5,7 +5,7 @@
 - Prepared for UMBC Data Science Master Degree Capstone, guided by Dr Chaojie (Jay) Wang
 - [Github](https://github.com/SriVaishnaviK)
 - [LinkedIn](https://www.linkedin.com/in/vaishnavikudikala)
-- [Presentation](https://docs.google.com/presentation/d/149iRNYH1ZFVT-vwQqX20xLsIQrxSvni9/edit?usp=sharing&ouid=106014046151294231153&rtpof=true&sd=true)
+- [Presentation](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/blob/main/docs/House%20Price%20Prediction.pptx)
 - Youtube:
     
 ## 2. Background
