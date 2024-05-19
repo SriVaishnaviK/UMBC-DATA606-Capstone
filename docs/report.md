@@ -121,6 +121,9 @@ The graph depicts a positive correlation between property condition and house pr
 - Developing Personalized Price Prediction Models: We can plan to build detailed user profiles, create interactive tools for customized valuations, and implement feedback mechanisms to continuously refine our models based on user input and preferences.
 
 
+## 8. References
+- (https://cre.org/real-estate-issues/a-brief-review-of-house-price-forecasting-methods/)
+
 
 
 
