@@ -3,7 +3,7 @@
 - Author: Sri Vaishnavi Kudikala
 - Semester- Spring'24
 - Prepared for UMBC Data Science Master Degree Capstone, guided by Dr Chaojie (Jay) Wang
-- [Github](https://github.com/SriVaishnaviK)
+- [Github](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone)
 - [LinkedIn](https://www.linkedin.com/in/vaishnavikudikala)
 - [Presentation](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/blob/main/docs/House%20Price%20Prediction.pptx)
 - [Youtube](https://youtu.be/SXnhIJCy--o)
