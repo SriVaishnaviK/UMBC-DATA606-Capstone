@@ -1,8 +1,8 @@
-## 1. Title and Author
+## 1. Title: House Price Prediction(Kansas City)
 
-- House Price Prediction
-- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- Sri Vaishnavi Kudikala
+- Author: Sri Vaishnavi Kudikala
+- Semester- Spring'24
+- Prepared for UMBC Data Science Master Degree Capstone, guided by Dr Chaojie (Jay) Wang
 - [Github](https://github.com/SriVaishnaviK)
 - [LinkedIn](https://www.linkedin.com/in/vaishnavikudikala)
 - [Presentation](https://docs.google.com/presentation/d/149iRNYH1ZFVT-vwQqX20xLsIQrxSvni9/edit?usp=sharing&ouid=106014046151294231153&rtpof=true&sd=true)
