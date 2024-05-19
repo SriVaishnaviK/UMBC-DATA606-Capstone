@@ -101,7 +101,8 @@ The graph depicts a positive correlation between property condition and house pr
 ## 6. Application of Trained Models
 - Developed a web application to deploy my model using the Django framework.
 - Used pycharm as a development environment.
-  ![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/99d24c66-d240-4689-885b-3f76388e0726)
+![image](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/assets/101724857/5372c2ba-7fa3-4461-8b7c-616bfb62ae59)
+
 
 
 
