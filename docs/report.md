@@ -5,7 +5,7 @@
 - Sri Vaishnavi Kudikala
 - [Github](https://github.com/SriVaishnaviK)
 - [LinkedIn](https://www.linkedin.com/in/vaishnavikudikala)
-- Presentation:
+- [Presentation](https://docs.google.com/presentation/d/149iRNYH1ZFVT-vwQqX20xLsIQrxSvni9/edit?usp=sharing&ouid=106014046151294231153&rtpof=true&sd=true)
 - Youtube:
     
 ## 2. Background
