@@ -6,7 +6,7 @@
 - [Github](https://github.com/SriVaishnaviK)
 - [LinkedIn](https://www.linkedin.com/in/vaishnavikudikala)
 - [Presentation](https://github.com/SriVaishnaviK/UMBC-DATA606-Capstone/blob/main/docs/House%20Price%20Prediction.pptx)
-- Youtube:
+- [Youtube](https://youtu.be/SXnhIJCy--o)
     
 ## 2. Background
 
