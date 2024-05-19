@@ -122,7 +122,10 @@ The graph depicts a positive correlation between property condition and house pr
 
 
 ## 8. References
-- (https://cre.org/real-estate-issues/a-brief-review-of-house-price-forecasting-methods/)
+- https://cre.org/real-estate-issues/a-brief-review-of-house-price-forecasting-methods/
+- https://ijritcc.org/index.php/ijritcc/article/view/8321
+- https://ieeexplore.ieee.org/document/8882834
+- https://www.hindawi.com/journals/sp/2022/5750354/
 
 
 
